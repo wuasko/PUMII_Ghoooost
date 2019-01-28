@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\Quasko1\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\9e4a6d981637c1533a9f33d4acb7163e\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\Quasko1\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\9e4a6d981637c1533a9f33d4acb7163e\\res\\layout\\__arcore_education.xml"
+    }
+]

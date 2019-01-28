@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Quasko1\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\9e4a6d981637c1533a9f33d4acb7163e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                },
+                {
+                    "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endColumns": "42",
+                        "endOffsets": "476"
+                    }
+                },
+                {
+                    "source": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,10,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "481,581,719",
+                        "endLines": "9,12,16",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "576,714,941"
+                    }
+                }
+            ]
+        }
+    ]
+}

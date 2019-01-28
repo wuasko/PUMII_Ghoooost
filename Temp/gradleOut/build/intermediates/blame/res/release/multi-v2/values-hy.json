@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Quasko1\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\9e4a6d981637c1533a9f33d4acb7163e\\res\\values-hy\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,292,402,519",
+                        "endColumns": "48,52,109,116,63",
+                        "endOffsets": "238,291,401,518,582"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,279,400",
+                        "endColumns": "52,56,113,120,67",
+                        "endOffsets": "103,160,274,395,463"
+                    }
+                }
+            ]
+        }
+    ]
+}

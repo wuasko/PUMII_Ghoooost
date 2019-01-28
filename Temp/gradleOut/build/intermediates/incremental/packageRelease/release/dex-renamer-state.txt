@@ -1,0 +1,4 @@
+#Sun Jan 27 23:42:34 CET 2019
+base.0=D\:\\POLSL\\PUMII (9)\\PUMII_Ghost\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
